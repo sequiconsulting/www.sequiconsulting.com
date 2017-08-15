@@ -1,5 +1,5 @@
-baseurl = "/"
-languageCode = "en-us"
+baseurl = "https://www.sequiconsulting.com"
+languageCode = "it-it"
 title = "SEQUIconsulting"
 theme = "hugo-theme-casper"
 disqusShortname = "spf13"
