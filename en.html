@@ -504,7 +504,7 @@
             var loaded = false;
             var modal = document.getElementById('privacyModal');
             if (!modal) return;
-            modal.addEventListener('show.bs.modal', function(){
+            $(modal).on('show.bs.modal', function(){
                 if (loaded) return;
                 var xhr = new XMLHttpRequest();
                 xhr.open('GET', '/privacy.html', true);
