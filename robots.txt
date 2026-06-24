@@ -1,0 +1,46 @@
+# SEQUIconsulting robots.txt — 2026 SEO-optimized
+# Allow all traditional search engines
+User-agent: *
+Allow: /
+
+# Sitemap location
+Sitemap: https://www.sequiconsulting.com/sitemap.xml
+
+# ─── AI Crawlers ──────────────────────────────────────────
+# Google Extended — used for AI training (Bard/Vertex AI)
+# Allow: we want AI visibility. Block only if you don't want training.
+User-agent: Google-Extended
+Allow: /
+
+# GoogleOther — internal crawling outside of Search
+User-agent: GoogleOther
+Allow: /
+
+# OpenAI — GPTBot (training), OAI-SearchBot (SearchGPT indexing), ChatGPT-User (real-time)
+User-agent: GPTBot
+Allow: /
+User-agent: OAI-SearchBot
+Allow: /
+User-agent: ChatGPT-User
+Allow: /
+
+# Anthropic — ClaudeBot (training), Claude-SearchBot (indexing), Claude-User (real-time)
+User-agent: ClaudeBot
+Allow: /
+User-agent: Claude-SearchBot
+Allow: /
+User-agent: Claude-User
+Allow: /
+
+# Perplexity — PerplexityBot (indexing), Perplexity-User (real-time)
+User-agent: PerplexityBot
+Allow: /
+User-agent: Perplexity-User
+Allow: /
+
+# Common Crawl — used by many AI training datasets
+User-agent: CCBot
+Allow: /
+
+# ─── Crawl-delay (optional, polite crawling) ──────────────
+# Crawl-delay: 10

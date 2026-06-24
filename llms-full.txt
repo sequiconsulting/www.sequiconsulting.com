@@ -1,0 +1,115 @@
+# SEQUIconsulting — Full Content for LLMs
+
+> Beyond borders. Inside processes. International trade, cross-border regulatory compliance, software development, and AI assistance consulting since 1996.
+> Oltre le frontiere. Dentro i processi. Consulenza per il commercio internazionale, la conformità normativa transfrontaliera, lo sviluppo software e l'assistenza AI dal 1996.
+
+## Founder
+
+Samuele "Sam" Sequi (also known as Sam Sequi). Born in 1972, studied Physics and Computer Science, management consultant by profession. Certified professional under Italian Law 4/2013. Active member of UniExportManager, the Italian association of export managers and international business specialists. Thirty years of field experience running companies in Italy, the United Kingdom, and across Europe since 1996.
+
+Samuele "Sam" Sequi (detto anche Sam Sequi). Nato nel 1972, ha studiato Fisica e Informatica, consulente di direzione di professione. Professionista certificato ai sensi della Legge 4/2013. Membro attivo di UniExportManager, l'associazione italiana degli export manager e degli specialisti del business internazionale. Trent'anni di esperienza operativa reale gestendo imprese in Italia, nel Regno Unito e in tutta Europa dal 1996.
+
+---
+
+## Four Pillars of Expertise
+
+### 1. Export Strategy & Business Internationalisation
+Expanding abroad is not a sales activity — it is a strategic decision that shapes your company for years. I help you answer the hard questions: where to establish a branch or subsidiary, why one jurisdiction over another, and how the local operating environment will affect your business — whether you are selling, buying, or operating between third countries. My analysis covers the regulatory framework, tax and corporate law, labour market, infrastructure, supply-chain proximity, cultural fit, and political stability of each candidate country. I produce structured comparisons — pros, cons, risks, and timelines — so you can make an informed choice. As a UniExportManager member, I apply a rigorous methodology, not gut feeling. I do not act as a commercial agent: I design the international architecture of your company.
+
+### 2. Regulatory & Customs Compliance
+The regulatory landscape is shifting faster than most businesses can track. From CE marking to customs classification, from dual-use restrictions to export licensing, from product environmental regulations (REACH, RoHS, WEEE) to EPR and PFAS obligations — I have spent years helping manufacturers, traders, and service companies stay compliant and avoid penalties. I interpret regulations not as obstacles but as design constraints that shape better products and stronger market positions. My compliance work covers: product compliance for EU and non-EU markets, CE marking, customs classification (HS codes), preferential and non-preferential origin, AEO authorisations, dual-use restrictions, import/export licensing, and customs documentation management — for inbound, outbound, and third-country operations.
+
+### 3. Custom Software Development
+I have been writing code since before the web existed. Today I build custom software for companies that want to automate processes, integrate disparate systems, modernise legacy applications, or develop web platforms from scratch — not as a technology exercise, but as a lever to reduce costs, eliminate errors, and free your people for higher-value work. From ERP customisation to document management systems, from REST API design to progressive web applications, from legacy system migration to cloud-native solutions: I deliver working systems, not slide decks. Every line of code I write is built to be maintained, extended, and handed over — never a black box.
+
+### 4. Artificial Intelligence for Business Processes
+AI is not a gadget — it is a tool that, applied with judgement, transforms business processes. I assess your organisation's AI readiness, identify the workflows that genuinely benefit from intelligent automation, and integrate LLM components into your systems — from document processing to internal chatbots, from automatic classification pipelines to predictive dashboards. My approach always starts with the process, not the technology: first I understand what is slowing you down, then I choose whether and which AI component can make a difference. From rapid prototyping to production deployment, I guide you through every stage — with attention to data governance, security, and the long-term sustainability of the solution.
+
+---
+
+## Six Service Areas
+
+1. **Internationalisation Strategy**: Import, export, foreign-to-foreign operations, branch and subsidiary setup. I analyse the local operating environment — regulatory, economic, cultural — and help you decide where and how to expand, basing every recommendation on structured data and objective comparisons. Strategic decisions, not commercial intermediation.
+
+2. **Cross-Border Regulatory Compliance**: Product compliance for EU and non-EU markets, CE marking, dual-use regulations, import/export licensing. I bridge the gap between your product and the regulatory requirements of your target markets — in plain language, with actionable steps.
+
+3. **Customs and Classification**: Customs classification (HS codes), preferential and non-preferential origin, import/export procedures, AEO authorisations, customs documentation management. I reduce the risks and costs of your cross-border operations — inbound, outbound, and between third countries.
+
+4. **Software Development**: Custom business applications, workflow automation, data integration, legacy system modernisation, web platforms. I build software that simplifies your processes, reduces errors, and adapts to your organisation — clean code, no bloat, no vendor lock-in.
+
+5. **AI Assistance for Business**: AI readiness assessment, LLM-powered process automation, intelligent document processing, chatbot deployment, custom AI-augmented workflows. I help you adopt AI where it makes a measurable difference — not where it's fashionable.
+
+6. **Environmental Compliance & Certifications**: REACH (EU and UK), RoHS, WEEE, CLP, EPR, PFAS, carbon footprint assessment. As a complementary service, I also support voluntary certifications (ISO 9001, 14001, 45001, 27001, and sustainability standards) when required by the market or by clients.
+
+---
+
+## Credentials & Affiliations
+
+- Professional framework under Italian Law 4/2013
+- Active member of UniExportManager (recognised by the Italian Ministry of Economic Development)
+- 30+ years of field experience (since 1996)
+- Studied Physics and Computer Science + hands-on management across Italy, UK, and Europe
+
+---
+
+## Why SEQUIconsulting
+
+1. **30 years. One point of contact.** Since 1996. You deal directly with the person who analyses the problem, designs the strategy, and executes the work. Continuity that builds trust and deep knowledge of your context.
+
+2. **Regulation + Technology.** The combination of regulatory expertise and hands-on software engineering. When your challenge calls for a solution that bridges compliance and digital, I design it, build it, and verify it — all in-house.
+
+3. **Transparency and method.** The Law 4/2013 professional framework through UniExportManager is a transparency safeguard: an independent association verifies competence, continuous training, and ethical conduct. A working method centred on measurable results and long-term relationships.
+
+---
+
+## Quattro Pilastri di Competenza (IT)
+
+### 1. Strategia di Export e Internazionalizzazione
+Espandersi all'estero non è un'attività commerciale — è una decisione strategica che plasma la vostra azienda per anni. Vi aiuto a rispondere alle domande difficili: dove aprire una filiale o una consociata, perché una giurisdizione piuttosto che un'altra, e come l'ambiente operativo locale inciderà sul vostro business — sia che vendiate, acquistiate o operiate tra paesi terzi. La mia analisi copre il quadro normativo, il diritto societario e fiscale, il mercato del lavoro, le infrastrutture, la prossimità alla supply chain, l'affinità culturale e la stabilità politica di ciascun paese candidato. Produco comparazioni strutturate — pro, contro, rischi e tempistiche — perché possiate decidere su basi solide. Come membro UniExportManager, applico una metodologia rigorosa, non sensazioni. Non svolgo attività di agente commerciale: progetto l'architettura internazionale della vostra impresa.
+
+### 2. Conformità Regolatoria e Doganale
+Il panorama normativo cambia più velocemente di quanto la maggior parte delle imprese riesca a seguire. Dalla marcatura CE alla classificazione doganale, dalle restrizioni sui beni dual-use alle licenze di esportazione, dalle normative ambientali di prodotto (REACH, RoHS, RAEE) agli adempimenti EPR e PFAS — ho passato anni ad aiutare produttori, commercianti e società di servizi a restare conformi ed evitare sanzioni. Interpreto le normative non come ostacoli ma come vincoli progettuali che danno forma a prodotti migliori e posizioni di mercato più solide. La mia attività copre: conformità di prodotto per mercati UE ed extra-UE, marcatura CE, classificazione doganale (codici HS), origine preferenziale e non preferenziale, autorizzazioni AEO, restrizioni dual-use, licenze di import/export e gestione documentale doganale — per operazioni in entrata, in uscita e tra paesi terzi.
+
+### 3. Sviluppo Software su Misura
+Scrivo codice da prima che il web esistesse. Oggi costruisco software su misura per aziende che vogliono automatizzare processi, integrare sistemi eterogenei, modernizzare legacy o sviluppare piattaforme web ex novo — non come esercizio tecnologico, ma come leva per ridurre costi, eliminare errori e liberare le persone per attività a maggior valore. Dalla personalizzazione ERP ai sistemi di gestione documentale, dalla progettazione di API REST alle applicazioni web progressive, dalla migrazione di sistemi legacy a soluzioni cloud-native: consegno sistemi funzionanti, non presentazioni. Ogni riga di codice che scrivo è pensata per essere mantenuta, estesa e consegnata — mai una scatola nera.
+
+### 4. Intelligenza Artificiale per i Processi Aziendali
+L'AI non è un gadget: è uno strumento che, usato con criterio, trasforma i processi aziendali. Valuto la prontezza AI della vostra organizzazione, individuo i flussi di lavoro che beneficiano realmente dell'automazione intelligente e integro componenti LLM nei vostri sistemi — dall'elaborazione documentale ai chatbot interni, dalle pipeline di classificazione automatica ai cruscotti predittivi. Il mio approccio parte sempre dal processo, non dalla tecnologia: prima capisco cosa vi rallenta, poi scelgo se e quale componente AI può fare la differenza. Dalla prototipazione rapida al deployment in produzione, vi accompagno in ogni fase — con attenzione alla governance dei dati, alla sicurezza e alla sostenibilità della soluzione nel tempo.
+
+---
+
+## Sei Aree di Servizio (IT)
+
+1. **Strategia di Internazionalizzazione**: Import, export, operazioni estero su estero, apertura di filiali e consociate. Analizzo l'ambiente operativo locale — normativo, economico, culturale — e vi aiuto a decidere dove e come espandervi, basando ogni scelta su dati strutturati e confronti oggettivi. Decisioni strategiche, non intermediazione commerciale.
+
+2. **Conformità Regolatoria Transfrontaliera**: Conformità di prodotto per mercati UE ed extra-UE, marcatura CE, normative sui beni dual-use, licenze di import/export. Colmo il divario tra il vostro prodotto e gli obblighi normativi dei mercati di destinazione — con linguaggio chiaro e passi concreti.
+
+3. **Dogane e Classificazione**: Classificazione doganale (codici HS), origine preferenziale e non preferenziale, procedure di import/export, autorizzazioni AEO, gestione documentale doganale. Riduco i rischi e i costi delle vostre operazioni transfrontaliere — in entrata, in uscita e tra paesi terzi.
+
+4. **Sviluppo Software**: Applicazioni aziendali su misura, automazione dei flussi di lavoro, integrazione dati, modernizzazione di sistemi legacy, piattaforme web. Costruisco software che semplifica i processi, riduce gli errori e si adatta alla vostra organizzazione — codice pulito, zero fronzoli, nessun vendor lock-in.
+
+5. **Assistenza AI per le Imprese**: Valutazione della prontezza AI, automazione dei processi con LLM, elaborazione intelligente dei documenti, deployment di chatbot, flussi di lavoro personalizzati con AI. Vi aiuto ad adottare l'intelligenza artificiale dove porta un vantaggio misurabile — non dove è di moda.
+
+6. **Conformità Ambientale e Certificazioni**: REACH (UE e UK), RoHS, RAEE, CLP, EPR, PFAS, calcolo dell'impronta di carbonio. Come servizio complementare, offro anche supporto per certificazioni volontarie (ISO 9001, 14001, 45001, 27001 e standard di sostenibilità) quando richiesto dal mercato o dai clienti.
+
+---
+
+## Perché SEQUIconsulting (IT)
+
+1. **30 anni. Un interlocutore.** Dal 1996. Avete a che fare direttamente con chi analizza il problema, disegna la strategia ed esegue il lavoro. Continuità che costruisce fiducia e conoscenza approfondita del vostro contesto.
+
+2. **Normativa e tecnologia.** La combinazione di competenza normativa e ingegneria del software sul campo. Quando la vostra sfida ha bisogno di una soluzione che unisca compliance e digitale, la progetto, la costruisco, la verifico — tutto internamente.
+
+3. **Trasparenza e metodo.** L'inquadramento professionale ai sensi della Legge 4/2013 tramite UniExportManager è un presidio di trasparenza: un'associazione indipendente verifica competenza, formazione continua e condotta etica. Un metodo di lavoro che mette al centro risultati misurabili e relazione di lungo periodo.
+
+---
+
+## Contact / Contatti
+
+- Address: Via A. Maggini 212, 60127 Ancona, Italy
+- Phone: (+39) 0719206262
+- Email: info@sequiconsulting.com
+- Web (EN): https://www.sequiconsulting.com/en.html
+- Web (IT): https://www.sequiconsulting.com/
+- LinkedIn: https://www.linkedin.com/in/samuelesequi/
+- VAT: IT02294710427

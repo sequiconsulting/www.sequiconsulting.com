@@ -1,0 +1,35 @@
+{
+    "name": "SEQUIconsulting",
+    "short_name": "SEQUIconsulting",
+    "description": "Consulenza per il commercio internazionale, la conformità normativa transfrontaliera, lo sviluppo software e l'assistenza AI. Dal 1996.",
+    "start_url": "/",
+    "display": "browser",
+    "theme_color": "#F05F40",
+    "background_color": "#FFFFFF",
+    "icons": [
+        {
+            "src": "/img/favicon.svg",
+            "sizes": "any",
+            "type": "image/svg+xml",
+            "purpose": "any"
+        },
+        {
+            "src": "/img/favicon-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "any maskable"
+        },
+        {
+            "src": "/img/favicon-512x512.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "any maskable"
+        },
+        {
+            "src": "/img/apple-touch-icon.png",
+            "sizes": "180x180",
+            "type": "image/png",
+            "purpose": "any"
+        }
+    ]
+}

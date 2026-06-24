@@ -1,0 +1,31 @@
+# SEQUIconsulting
+> Beyond borders. Inside processes. International trade, cross-border regulatory compliance, software development, and AI assistance consulting since 1996.
+
+## Core pages
+- [English site](https://www.sequiconsulting.com/en.html) — Full English version
+- [Sito italiano](https://www.sequiconsulting.com/) — Versione italiana completa
+- [Privacy Policy](https://www.sequiconsulting.com/privacy.html)
+- [Informativa Privacy](https://www.sequiconsulting.com/privacy-it.html)
+- [Full LLMs content](https://www.sequiconsulting.com/llms-full.txt) — Complete bilingual markdown
+
+## About
+SEQUIconsulting is a consulting firm founded in 1996 by Samuele "Sam" Sequi, a certified professional under Italian Law 4/2013 and member of [UniExportManager](https://www.uniexportmanager.it/). Based in Ancona, Italy, the firm serves clients across Italy, the UK, and Europe. Core practice: international trade, cross-border regulatory compliance, custom software development, and AI-assisted business process automation.
+
+## Services
+- Internationalisation Strategy: import/export, foreign-to-foreign operations, branch and subsidiary setup, market analysis
+- Cross-Border Regulatory Compliance: CE marking, dual-use regulations, import/export licensing, product compliance
+- Customs and Classification: HS codes, preferential and non-preferential origin, AEO authorisations, customs documentation
+- Software Development: custom business applications, workflow automation, legacy modernisation, web platforms
+- AI Assistance for Business: AI readiness assessment, LLM-powered automation, document intelligence, chatbot deployment
+- Environmental Compliance & Certifications: REACH, RoHS, WEEE, EPR, PFAS, carbon footprint; voluntary certifications (ISO) as a complementary service
+
+## Contact
+- [info@sequiconsulting.com](mailto:info@sequiconsulting.com)
+- [+39 071 9206262](tel:+390719206262)
+- Via A. Maggini 212, 60127 Ancona, Italy
+- [LinkedIn](https://www.linkedin.com/in/samuelesequi/)
+
+## Credentials
+- Professional framework under Italian Law 4/2013
+- Active member of UniExportManager (recognised by Italian Ministry of Economic Development)
+- 30+ years of field experience (since 1996)

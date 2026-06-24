@@ -1,0 +1,109 @@
+{
+    "@context": "https://schema.org",
+    "@graph": [
+        {
+            "@type": "Organization",
+            "@id": "https://www.sequiconsulting.com/#organization",
+            "name": "SEQUIconsulting",
+            "url": "https://www.sequiconsulting.com/",
+            "logo": "https://www.sequiconsulting.com/img/favicon.svg",
+            "image": "https://www.sequiconsulting.com/img/header.jpg",
+            "description": "Consulenza per il commercio internazionale, la conformità normativa transfrontaliera, lo sviluppo software e l'assistenza AI. Dal 1996.",
+            "foundingDate": "1996",
+            "founder": {
+                "@type": "Person",
+                "@id": "https://www.sequiconsulting.com/#person",
+                "name": "Samuele Sequi",
+                "givenName": "Samuele",
+                "familyName": "Sequi",
+                "alternateName": "Sam Sequi",
+                "jobTitle": "Consulente di Direzione",
+                "url": "https://www.sequiconsulting.com/",
+                "sameAs": [
+                    "https://www.linkedin.com/in/samuelesequi/"
+                ]
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "streetAddress": "Via A. Maggini 212",
+                "addressLocality": "Ancona",
+                "postalCode": "60127",
+                "addressCountry": "IT"
+            },
+            "contactPoint": {
+                "@type": "ContactPoint",
+                "contactType": "customer service",
+                "telephone": "+39-071-9206262",
+                "email": "info@sequiconsulting.com",
+                "availableLanguage": ["Italian", "English"]
+            },
+            "vatID": "IT02294710427",
+            "areaServed": ["IT", "GB", "EU"],
+            "knowsAbout": [
+                "Commercio Internazionale",
+                "Classificazione Doganale",
+                "Codici HS",
+                "Marcatura CE",
+                "Normativa Dual-Use",
+                "Licenze Import/Export",
+                "Regolamento REACH",
+                "Direttiva RoHS",
+                "Direttiva RAEE",
+                "Conformità Ambientale",
+                "EPR Responsabilità Estesa del Produttore",
+                "Restrizioni PFAS",
+                "Strategia di Internazionalizzazione",
+                "Ingresso in Mercati Esteri",
+                "Sviluppo Software",
+                "Automazione dei Processi Aziendali",
+                "Intelligenza Artificiale",
+                "Certificazione ISO 9001",
+                "Certificazione ISO 14001",
+                "Certificazione ISO 27001",
+                "Certificazione ISO 45001"
+            ],
+            "memberOf": {
+                "@type": "Organization",
+                "name": "UniExportManager",
+                "url": "https://www.uniexportmanager.it/"
+            }
+        },
+        {
+            "@type": "ProfessionalService",
+            "@id": "https://www.sequiconsulting.com/#localservice",
+            "name": "SEQUIconsulting",
+            "url": "https://www.sequiconsulting.com/",
+            "image": "https://www.sequiconsulting.com/img/header.jpg",
+            "address": {
+                "@type": "PostalAddress",
+                "streetAddress": "Via A. Maggini 212",
+                "addressLocality": "Ancona",
+                "postalCode": "60127",
+                "addressCountry": "IT"
+            },
+            "telephone": "+39-071-9206262",
+            "email": "info@sequiconsulting.com",
+            "priceRange": "$$",
+            "openingHoursSpecification": {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"],
+                "opens": "09:00",
+                "closes": "18:00"
+            },
+            "parentOrganization": {
+                "@id": "https://www.sequiconsulting.com/#organization"
+            }
+        },
+        {
+            "@type": "WebSite",
+            "@id": "https://www.sequiconsulting.com/#website",
+            "url": "https://www.sequiconsulting.com/",
+            "name": "SEQUIconsulting",
+            "description": "Oltre le frontiere. Dentro i processi. Consulenza dal 1996.",
+            "inLanguage": ["it", "en"],
+            "publisher": {
+                "@id": "https://www.sequiconsulting.com/#organization"
+            }
+        }
+    ]
+}
